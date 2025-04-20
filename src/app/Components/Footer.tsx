@@ -80,7 +80,7 @@ const Footer = () => {
 
         {/* Footer Bottom */}
         <div className="text-center mt-8">
-          <p className="text-gray-200 text-sm">Designed and Developed by <strong>Code with Chris</strong></p>
+          <p className="text-gray-200 text-sm">Designed and Developed by <strong>Code with Chrissii</strong></p>
         </div>
       </div>
     </motion.footer>
