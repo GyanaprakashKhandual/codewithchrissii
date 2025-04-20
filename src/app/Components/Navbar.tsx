@@ -83,7 +83,7 @@ export default function Navbar() {
       >
         <Sparkles className="text-yellow-300 w-8 h-8 animate-bounce" />
         <h1 className="text-white text-xl md:text-3xl font-bold tracking-wide whitespace-nowrap">
-          Code with Chris
+          Code with Chrissii
         </h1>
       </motion.div>
 
