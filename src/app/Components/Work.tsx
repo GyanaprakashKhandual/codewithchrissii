@@ -30,7 +30,7 @@ const WorkExperienceCard = () => {
           </p>
           <p className="text-xl text-gray-200 dark:text-gray-300 flex items-center">
             <FaBriefcase className="mr-2 text-teal-200" />
-            Position: QA Analyst
+            Position: Opreation Manager
           </p>
         </div>
       </div>
@@ -38,18 +38,19 @@ const WorkExperienceCard = () => {
       <div className="mt-8">
         <h3 className="text-2xl font-semibold text-white dark:text-gray-100">Duration</h3>
         <p className="text-lg text-gray-200 dark:text-gray-300">
-          From: <strong>Apr 7, 2024</strong> to <strong>Present</strong>
+          From: <strong>Feb 01, 2024</strong> to <strong>Present</strong>
         </p>
       </div>
 
       <div className="mt-8">
         <h3 className="text-2xl font-semibold text-white dark:text-gray-100">Responsibilities</h3>
         <ul className="list-disc pl-6 text-gray-200 dark:text-gray-300">
-          <li>Perform manual testing on web applications to ensure functionality.</li>
-          <li>Write and maintain automated test scripts for regression testing using Selenium and Cypress.</li>
-          <li>Collaborate with developers, product managers, and other teams to enhance product quality.</li>
-          <li>Document, report, and track bugs/issues while working closely with the development team for resolution.</li>
-          <li>Participate in test case reviews and contribute to QA strategy sessions.</li>
+        <li>Oversee day-to-day software operations to ensure smooth deployment, maintenance, and performance of web applications.</li>
+<li>Manage cross-functional teams, including QA, development, and DevOps, to align project goals with business objectives.</li>
+<li>Develop and implement operational strategies for continuous improvement in software delivery and quality assurance processes.</li>
+<li>Monitor, document, and report on software performance, issues, and incidents, ensuring timely resolution and escalation when necessary.</li>
+<li>Lead planning and review meetings to assess project timelines, resource allocation, and risk mitigation strategies.</li>
+
         </ul>
       </div>
     </motion.div>
