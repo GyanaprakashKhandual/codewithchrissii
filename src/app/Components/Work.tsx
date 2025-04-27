@@ -30,7 +30,7 @@ const WorkExperienceCard = () => {
           </p>
           <p className="text-xl text-gray-200 dark:text-gray-300 flex items-center">
             <FaBriefcase className="mr-2 text-teal-200" />
-            Position: Opreation Manager
+            Position: QA Analyst
           </p>
         </div>
       </div>
@@ -45,12 +45,11 @@ const WorkExperienceCard = () => {
       <div className="mt-8">
         <h3 className="text-2xl font-semibold text-white dark:text-gray-100">Responsibilities</h3>
         <ul className="list-disc pl-6 text-gray-200 dark:text-gray-300">
-        <li>Oversee day-to-day software operations to ensure smooth deployment, maintenance, and performance of web applications.</li>
-<li>Manage cross-functional teams, including QA, development, and DevOps, to align project goals with business objectives.</li>
-<li>Develop and implement operational strategies for continuous improvement in software delivery and quality assurance processes.</li>
-<li>Monitor, document, and report on software performance, issues, and incidents, ensuring timely resolution and escalation when necessary.</li>
-<li>Lead planning and review meetings to assess project timelines, resource allocation, and risk mitigation strategies.</li>
-
+          <li>Conduct manual and automated testing to ensure the quality and functionality of web and mobile applications.</li>
+          <li>Collaborate with developers and stakeholders to understand requirements and create comprehensive test plans and cases.</li>
+          <li>Identify, document, and track bugs, and work with the development team to drive resolution.</li>
+          <li>Execute regression testing, performance testing, and usability testing to maintain product standards.</li>
+          <li>Contribute to continuous improvement initiatives in QA processes and automation frameworks.</li>
         </ul>
       </div>
     </motion.div>
