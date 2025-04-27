@@ -25,7 +25,7 @@ const educationData: EducationItem[] = [
   },
   {
     degree: 'Senior Secondary Education',
-    institution: 'Sadhu Goudeswar College',
+    institution: 'Narasingha Choudhury Autonoumus College',
     board: 'CHSE Odisha',
     year: '2021',
   },
